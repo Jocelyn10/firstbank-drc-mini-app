@@ -2,7 +2,7 @@
   <view class="page-section">
     <view class="page-section-title">Bienvenue sur l'espace FirstBank DRC</view>
     <view class="page-section-image">
-      <image mode="scaleToFill" src="../../images/equityBcdc.jpg" />
+      <image mode="scaleToFill" src="../../images/firstbank.jpg" />
     </view>
     <view class="page-section-description">
       Faites vos transactions de FirstBank DRC vers M-Pesa en toute sécurité
