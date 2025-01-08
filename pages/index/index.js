@@ -1,13 +1,14 @@
 Page({
-  onLoad() {
-  },
+  onLoad() {},
   makePhoneCall() {
-    my.makePhoneCall({ number: '*426#' });
+    my.makePhoneCall({
+      number: '*426#'
+    });
   },
   onShareAppMessage() {
     return {
-      title: 'Equity App',
-      desc: 'My App description',
+      title: 'FirstBank DRC',
+      desc: 'FirstBank DRC description',
       path: 'pages/index/index',
     };
   },
