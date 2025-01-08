@@ -4,6 +4,7 @@
     "pages/index/index"
   ],
   "window": {
-    "defaultTitle": "FirstBank DRC"
+    "defaultTitle": "FirstBank DRC",
+    "titleBarColor": "#FF0000"
   }
 }
